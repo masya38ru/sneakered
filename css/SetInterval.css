@@ -1,0 +1,13 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.interval {
+    font-size: 15px;
+}
