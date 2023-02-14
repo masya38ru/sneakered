@@ -1,5 +1,5 @@
 #body {
-    width: 1363px;
+    width: 1496px;
     min-height: 600px;
     margin: -8px;
 }
@@ -11,7 +11,7 @@ p {
 }
 
 #top {
-    width: 1363px;
+    width: 1496px;
     min-height: 90px;
 }
 
@@ -27,18 +27,18 @@ p {
 }
 
 #left {
-    width: 810px;
+    width: 950px;
     min-height: 90px;
 }
 
 #logo {
-    width: 170px;
-    min-height: 90px;
+    width: 338px;
+    height: 148px;
     float: right;
 }
 
 #logo img {
-    margin-top: 30px;
+    margin-top: 8px;
     float: left;
 }
 
@@ -53,24 +53,19 @@ p {
     float: right;
 }
 
-#menu {
-    width: 1363px;
-    min-height: 45px;
-    display: flex;
-    justify-content: space-around;
-}
-
 #pictures {
-    width: 1363px;
+    width: 1496px;
     min-height: 400px;
 }
 
 #footer {
-    width: 1363px;
+    width: 1496px;
     min-height: 50px;
+    margin-bottom: 52px;
 }
 
 #leftfoot {
+    margin-top: 8px;
     margin-left: 30px;
     width: 300px;
     min-height: 50px;
@@ -78,11 +73,27 @@ p {
 }
 
 #rightfoot {
-    margin-top: 5px;
-    margin-right: 80px;
+    margin-top: 15px;
+    margin-right: 56px;
     width: 250px;
     min-height: 50px;
     float: right;
     display: flex;
     justify-content: space-around;
+}
+
+#menu {
+    width: 1496px;
+    min-height: 45px;
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-around;
+}
+
+a {
+    cursor: pointer;
+    font-size: 150%;
+    color: #000000;
+    text-decoration: none;
+    font-family: Alegreya;
 }

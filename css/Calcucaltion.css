@@ -1,44 +1,53 @@
-.p{
+.p {
     cursor: pointer;
     margin: 0px;
     font-size: 150%;
     font-family: Book antiqua;
 }
-.block{
+
+.block {
     width: 480px;
     min-height: 102px;
     padding-left: 70px;
 }
-.blockButton{
+
+.blockButton {
     width: 450px;
     min-height: 102px;
     display: flex;
     justify-content: space-around;
 }
-#sum{
+
+#sum {
     height: 30px;
     width: 300px;
 }
-.sum{
+
+.sum {
     font-size: 70%;
 }
-.firstCoast{
+
+.firstCoast {
     font-size: 70%;
 }
-.firstNumber{
+
+.firstNumber {
     font-size: 70%;
 }
-.secondCoast{
+
+.secondCoast {
     font-size: 70%;
 }
-.secondNumber{
+
+.secondNumber {
     font-size: 70%;
 }
-.form{
+
+.form {
     font-family: Avenir;
 }
-#button{
+
+#button {
     height: 50px;
     width: 190px;
-    background-color: #FFC0CB;
 }

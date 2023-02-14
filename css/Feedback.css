@@ -1,0 +1,22 @@
+#top{
+    width: 600px;
+    min-height: 311px;
+    padding-left: 30px;
+}
+textarea {
+    resize: none;
+    vertical-align: top;
+}
+#bottom{
+    width: 600px;
+    min-height: 211px;
+    padding-left: 30px;
+}
+.yourFeedbackText{
+    font-size: 200%;
+    margin: 0;
+    display: inline;
+}
+.feedback{
+    font-size: 100%;
+}
