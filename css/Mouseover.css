@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+}
+
+img {
+    max-width: 100%;
+}

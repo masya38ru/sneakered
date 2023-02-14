@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    width: 210px;
+    height: 280px;
+    border: 8px solid grey;
+    margin: 24px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+}
