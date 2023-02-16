@@ -1,0 +1,9 @@
+#fade {
+    position: relative;
+}
+
+#fade .to {
+    display: none;
+    position: absolute;
+    left: 0;
+}
